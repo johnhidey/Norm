@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package  xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <id>Norm</id>
+    <version>1.0</version>
+    <authors>John Hidey</authors>
+    <owners>Hidey.com</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>DataAccess ORM for use where ORM's are not allowed to be used.</description>
+    <tags>DataAccess,Micro ORM,ORM</tags>
+  </metadata>
+</package>
